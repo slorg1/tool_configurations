@@ -1,0 +1,15 @@
+"*":
+  core:
+    disabledPackages: [
+      "welcome"
+    ]
+    openEmptyEditorOnStart: false
+    restorePreviousWindowsOnStart: "always"
+    telemetryConsent: "no"
+  editor:
+    preferredLineLength: 110
+    showIndentGuide: true
+    showInvisibles: true
+    tabLength: 4
+    tabType: "soft"
+

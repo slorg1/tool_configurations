@@ -1,0 +1,12 @@
+'atom-workspace atom-text-editor:not([mini])':
+  'ctrl-shift-D': 'editor:duplicate-lines'
+  'alt-down': 'editor:move-line-down'
+  'alt-up': 'editor:move-line-up'
+  'ctrl-down': 'unset!'
+  'ctrl-alt-down': 'editor:duplicate-lines'
+  'ctrl-alt-up': 'editor:duplicate-lines'
+  'ctrl-d': 'editor:delete-line'
+  'ctrl-l': 'go-to-line:toggle'
+  'ctrl-X': 'editor:upper-case'
+  'ctrl-Y': 'editor:lower-case'
+
